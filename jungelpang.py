@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from line.linepy import *
-import json, requests
+import json, requests, sys
 
 listApp = [
 	"CHROMEOS\t2.1.5\tHelloWorld\t11.2.5", 

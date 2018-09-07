@@ -138,16 +138,7 @@ class Talk(object):
             arr.append(arrData)
             textx += mention + str(text)
         return self.sendMessage(to, textx, {'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
-
-    @loggedIn
-    def sendFooter(self, to, text, agentIcon, agentName, agentLink):
-        contentMetadata = {
-            'AGENT_ICON': agentIcon,
-            'AGENT_NAME': agentName,
-            'AGENT_LINK': agentLink
-        }
-        return self.sendMessage(to, text, contentMetadata, 0)
-
+    
     @loggedIn
     def sendSticker(self, to, stickerVersion, packageId, stickerId):
         contentMetadata = {
@@ -515,3 +506,20 @@ class Talk(object):
     @loggedIn
     def reportSpammer(self, spammerMid, spammerReasons=[], spamMessageIds=[]):
         return self.talk.reportSpammer(spammerMid, spammerReasons, spamMessageIds)
+
+    @loggedIn
+    def musiknad(self, img, text, stext):
+    	fine = self.getProfile().userid
+    	contentMetadata={
+    	'subText': stext,
+    	'countryCode': 'JP',
+    	'a-packageName': 'com.spotify.music',
+    	'previewUrl': img, 
+    	'text': text,
+    	'linkUrl': 'line://ti/p/~{}'.format(fine),
+    	'id': 'mt000000000a6b79f9',
+    	'i-installUrl': 'line://ti/p/~{}'.format(fine), 
+    	'type': 'mt', 'a-installUrl': 'line://ti/p/~{}'.format(fine), 
+    	'i-linkUrl': 'line://ti/p/~{}'.format(fine), 
+    	'a-linkUrl': 'line://ti/p/~{}'.format(fine)}
+    	return contentMetadata

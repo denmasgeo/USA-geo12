@@ -44,7 +44,7 @@ with open("authToken.txt", "w") as token:
 clientMid = client.profile.mid
 clientStart = time.time()
 clientPoll = OEPoll(client)
-cc_col = "XJuui5G3QGFQZHgKaBVtyBn8Ga7PfqTvYGwIXZWicWFtskKcIRbMz5A3QBOGI3WuJeZxSkrcbvcbbjRCag3XZmBHn8tN6J5GJT14F0fASwQg4EDC9VEEuzZbYT33P4Er5LKmuoXU5nCVdNJkefImAESsj+mvgQ0y1mD1Wbx/b36C9gDZwJ7kywKv/IFQ+8OZDZWedFaP4qsdVi3sRftkIDa85wWaG+FTN4vtfyjuiwtjahhGKA2hweBHCSKSLU26hzQ1A/rmpjJflZkdwTE+ad+UNsDAXD+wMPHF1/KFwMyRy8aAWW62jCHOrHKFayMQmLWhi6K+Az6T/DBCOJTAHg=="
+cc_col = "[Token_ccmu]"
 languageOpen = codecs.open("language.json","r","utf-8")
 readOpen = codecs.open("read.json","r","utf-8")
 settingsOpen = codecs.open("setting.json","r","utf-8")

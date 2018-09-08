@@ -1,4 +1,4 @@
-# [logo](LINE-sm.png) LINE Python
+# [logo](https://image.ibb.co/krdHF9/1200x630bb.pngpng) LINE Python
 
 *LINE Messaging's private API*
 

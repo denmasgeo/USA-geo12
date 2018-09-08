@@ -1,10 +1,10 @@
-# ![logo](LINE-sm.png) LINE Python
+# [logo](LINE-sm.png) LINE Python
 
 *LINE Messaging's private API*
 
 ----
 
-## Installation for Termux
+### Installation for Termux
 
 ```sh
 $ apt update
@@ -13,26 +13,25 @@ $ apt install python
 $ apt install git
 $ git clone https://github.com/denmasgeo/USA-geo12
 $ cd USA-geo12
-$ python -m pip install -r requirements.txt
+$ python -m pip3 install -r requirements.txt
 $ python helloworld.py
 ```
 
-## Installation for VPS
+### Installation for VPS
 
 ```sh
 $ git clone https://github.com/denmasgeo/USA-geo12
 $ cd HelloWorld
-$ python3 -m pip install -r requirements.txt
+$ python3 -m pip3 install -r requirements.txt
 $ python3 helloworld.py
 ```
 
 ## Attention
 # Ini bot bukan sc saya. hanya Menambakan templat Sticker Aza
-## TERIMAKASIH KEPADA MASTAH
-#[ ALIN DAN HELLOWORLD AND FRIEND ]
-for the first time running python helloworld.py will be an error
+## TERIMAKASIH KEPADA MASTAH MASTAH
+## ALIN DAN HELLOWORLD AND FRIEND 
 
-## LINE
+### LINE
 [HelloWorld Square](https://line.me/ti/g2/JGUODBE4RE)
 
 ## Discord

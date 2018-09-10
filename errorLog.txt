@@ -1,0 +1,28 @@
+
+[Senin, 03 - 09 - 2018 | 08:51:40] local variable 'col' referenced before assignment
+[Senin, 03 - 09 - 2018 | 08:51:45] local variable 'col' referenced before assignment
+[Senin, 03 - 09 - 2018 | 08:51:52] local variable 'col' referenced before assignment
+[Senin, 03 - 09 - 2018 | 12:02:04] local variable 'col' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 02:54:45] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 02:57:59] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 02:58:03] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 02:58:07] name 'getContact' is not defined
+[Selasa, 04 - 09 - 2018 | 02:58:29] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 02:58:53] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 03:14:24] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 03:14:24] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 03:22:05] name 'sendMention' is not defined
+[Selasa, 04 - 09 - 2018 | 03:22:08] name 'sendMention' is not defined
+[Selasa, 04 - 09 - 2018 | 03:23:34] name 'cleint' is not defined
+[Selasa, 04 - 09 - 2018 | 03:25:47] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 03:26:52] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 03:33:01] name 'picturePath' is not defined
+[Selasa, 04 - 09 - 2018 | 03:39:09] local variable 'a' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 03:55:55] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 03:59:06] local variable 'contact' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 04:10:55] [Errno 2] No such file or directory: 'LineAPI/tmp/backupPicture.bin'
+[Selasa, 04 - 09 - 2018 | 08:32:07] 'dict' object is not callable
+[Selasa, 04 - 09 - 2018 | 08:39:07] local variable 'ret_' referenced before assignment
+[Selasa, 04 - 09 - 2018 | 08:47:00] logError() missing 1 required positional argument: 'text'
+[Selasa, 04 - 09 - 2018 | 08:48:39] tuple index out of range
+[Selasa, 04 - 09 - 2018 | 08:50:48] local variable 'ret_' referenced before assignment

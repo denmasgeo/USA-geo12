@@ -24,7 +24,7 @@ client.log("Channel Token : " + str(channelToken))
 clientMid = client.profile.mid
 clientStart = time.time()
 clientPoll = OEPoll(client)
-cc_col = "YnDFaM8OzDPWtwHmXFuHGkvsOH4cmGOGVYDEXalTYixaHPOpHsPGBwxrEqlB2fQIhd08bE9EB6jmUFrcJhuhh5LShn4wvHzBoNBWSYJEIa4UvMqoKoj0yKI7pNQ6FmyhwS1iqi9fTj+IhdiBWW1B2N5Pjzo/    E5ERz3q2457UhkSXcy6GiZHdqBYMoA5GVyCPvI4cODFLU7GXC8x1Qgk603jS7HHMbmsEZfWI9HgTgLSmb2zKVWDiQrVnol1w06n/15ZJ68/0/Amwy46C5ugyoqookxI4/Oh+Iu+tjT0VtP01HQGXD3I+clGJ6PU7xs500WiyOun6dje9mOL0yq7PJieizDvFXf6gx3TWrQpeeCk="
+cc_col = "[Taruh token cc mu]"
 languageOpen = codecs.open("language.json","r","utf-8")
 readOpen = codecs.open("read.json","r","utf-8")
 settingsOpen = codecs.open("setting.json","r","utf-8")

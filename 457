@@ -1,0 +1,910 @@
+{
+    "calllist.item": {
+        "dateText.color": "#c79746",
+        "phoneIcon.tintcolor": {
+            "normal": "#d2a64e",
+            "pressed": "#e3bd5a"
+        },
+        "nameText.color": "#885e35",
+        "phoneIcon.background.tintcolor": {
+            "normal": "#f6d462",
+            "pressed": "#f1cf5f"
+        },
+        "dateIcon.tintcolor": "#c79746"
+    },
+    "chathistory.attach.header": {
+        "background.image": "header_bg.9.png",
+        "text.color": "#6a4830"
+    },
+    "friendlist.category": {
+        "textSeeAll.color": "#deae4e",
+        "arrowClose.tintcolor": "#deae4e",
+        "arrowOpen.tintcolor": "#deae4e",
+        "textSeeAll.arrow.tintcolor": "#deae4e",
+        "background.color": "#5ffff80",
+        "text.color": "#cc0000ff"
+    },
+    "chathistory.file.recv.msg": {
+        "file.icon.tintcolor": "#6a4830",
+        "expire.text.color": "#9f723a",
+        "arrow.tintcolor": "#deae4e",
+        "text.color": "#3c2509"
+    },
+    "tabBar.item.talk": {
+        "normal.image": "gnb_ic_chats_normal.png",
+        "selected.image": "gnb_ic_chats_selected.png"
+    },
+    "chathistory.text.send.msg": {"text.color": "#ff0000ff"},
+    "grouphome.main": {
+        "tab.text.color": "#e5cd9b",
+        "moreTab.icon.tintcolor": {
+            "normal": "#e5cd9b",
+            "pressed": "#978573"
+        },
+        "albumCreateBtn.image": {
+            "normal": "group_ic_postalbum.png",
+            "pressed": "group_ic_postalbum_pressed.png"
+        },
+        "selectedTab.text.color": "#6a4830",
+        "tab.background.color": "#ffffff",
+        "postWriteBtn.image": {
+            "normal": "group_ic_writepost.png",
+            "pressed": "group_ic_writepost_pressed.png"
+        },
+        "tabBottomLine.background.color": "#6a4830"
+    },
+    "chathistory.option.item.voip.video": {
+       "background.image":{"pressed":"chatroom_option_ic_freecall_normal2.png"
+,"normal":"chatroom_option_ic_freecall_normal1.png"},
+        "text.color": {
+            "normal": "#ffff0000",
+            "dimmed": "#66885e35"
+        }
+    },
+    "chathistory.text.recv.msg": {"text.color": "#ffffff80"},
+    "addFriend.tab.icon": {
+        "idsearch.image": "gnb_ic_search.png",
+        "invite.image": "gnb_ic_contacts.png",
+        "qrcode.image": "gnb_ic_qrcode.png",
+        "shakeit.image": "gnb_ic_shakeit.png"
+    },
+    "chathistory.balloon.text.send": {"background.image": {
+        "normal": "chatroom_balloon_send_normal.9.png",
+        "padding": "",
+        "pressed": "chatroom_balloon_send_pressed.9.png"
+    }},
+    "friendlist.common": {"noresult.text.color": "#c79746"},
+    "chatlist.item": {
+        "messageText.color": "#ffffff00",
+        "nameText.color": "#ff00ff00",
+        "newIcon.image": "list_category_chat_new.png",
+        "timeText.color": "#deae4e",
+        "notiIcon.image": "list_category_chat_noti.png",
+        "muteIcon.tintcolor": "#deae4e",
+        "messageCountText.color": "#ffffff",
+        "callingIcon.image": "list_category_chat_calling.png",
+        "messageCountText.background.image": "list_category_chat_num.9.png"
+    },
+    "chathistory.attach.item": {
+        "icon.tintcolor": "#ff000000",
+        "external.icon.tintcolor": "#885e35",
+        "background.image":{"pressed":"chatroom_icBig2.png"
+,"normal":"chatroom_icBig1.png"},
+        "text.color": "#ff000000"
+    },
+    "chathistory.common": {
+        "datebar.background.image": "chatroom_date.9.png",
+        "retry.icon.image": "chatroom_ic_retry.png",
+        "soundsticker.icon.tintcolor": "#deae4e",
+        "autoresend.icon.tintcolor": "#c79746",
+        "checkBox.image": {
+            "normal": "list_checkbox_img_normal.png",
+            "selected": "list_checkbox_img_selected.png"
+        },
+        "time.color": "#deae4e",
+        "name.color": "#885e35",
+        "datebar.text.color": "#b6934a"
+    },
+    "bottom.button.common": {
+        "button1.background.color": {
+            "normal": "#c79746",
+            "pressed": "#b1843c",
+            "dimmed": "#c79746"
+        },
+        "button2.background.color": {
+            "normal": "#b5863f",
+            "pressed": "#9b7339",
+            "dimmed": "#b5863f"
+        },
+        "button1.text.color": {
+            "normal": "#fff9e0",
+            "dimmed": "#66fff9e0"
+        },
+        "button2.text.color": {
+            "normal": "#fff9e0",
+            "dimmed": "#66fff9e0"
+        }
+    },
+    "invitemember.tab.item": {
+        "icon.tintcolor": "#6a4830",
+        "background.image": {
+            "normal": "gnb_bg_addfriend_normal.9.png",
+            "pressed": "gnb_bg_addfriend_pressed.9.png"
+        },
+        "text.color": "#6a4830"
+    },
+    "chathistory.music.recv.msg": {
+        "title.text.color": "#3d1818",
+        "playlist.default.image": "chatroom_ic_music_playlist.png",
+        "playbtn.default.image": "chatroom_music_play_default.png",
+        "playing.image": "chatroom_music_bar_playing.png",
+        "playbtn.background.pressed.image": "chatroom_music_bar_pressed.png",
+        "stopbtn.default.image": "chatroom_music_stop_default.png",
+        "playbtn.pressed.image": "chatroom_music_play_pressed.png",
+        "playbtn.background.default.image": "chatroom_music_bar_default.png",
+        "typename.text.color": "#736161",
+        "topic.default.image": "chatroom_ic_music_topic.png",
+        "service.text.color": "#736161",
+        "loading.image": "chatroom_music_loading.png",
+        "artist.text.color": "#736161",
+        "stopbtn.pressed.image": "chatroom_music_stop_pressed.png"
+    },
+    "myhome.post.bottom": {
+        "commentText.color": "#c79746",
+        "commentIcon.image": {
+            "normal": "timeline_ic_postcomment.png",
+            "selected": "timeline_ic_postcomment.png"
+        },
+        "likeText.color": "#c79746",
+        "likeIcon.image": {
+            "normal": "timeline_ic_postlike_off.png",
+            "selected": "timeline_ic_postlike_on.png"
+        },
+        "likeCountText.color": "#c79746",
+        "commentCountText.color": "#c79746"
+    },
+    "chathistory.balloon.recv": {"background.image": {
+        "normal": "chatroom_balloon_rec_normal.9.png",
+        "pressed": "chatroom_balloon_rec_pressed.9.png"
+    }},
+    "chathistory.memberlist.area": {"background.color": "#f2f7d765"},
+    "chathistory.contact.send.msg": {
+        "arrow.tintcolor": "#e0725c",
+        "text.color": "#3c2509"
+    },
+    "tabBar.item.friend": {
+        "normal.image": "gnb_ic_friends_normal.png",
+        "selected.image": "gnb_ic_friends_selected.png"
+    },
+    "moreMenu.item":{
+"newIcon.image":"more_ic_new.png",
+"text.color":"#885e35","icon.tintcolor":{"normal":"#MoremenuItem","pressed":"#FFFFC904"},
+"LpointCount.newIcon.tintcolor":"#e51f6c","LpointCount.plusIcon.tintcolor":"#885e35",
+"LpointCount.text.color":"#885e35","LpointLabel.text.color":"#885e35",
+"icon.background.color":"#ACFCE06D"
+,"Lpoint.background.color":"#ACFCE06D","LpointLabel.background.tintcolor":"#885e35"},
+    "chathistory.groupcall.recv.msg": {"bottom.background.image": {
+        "normal": "chatroom_balloon_line_rec.9.png",
+        "padding": "0 0 0 5"
+    }},
+    "myhome.list.header": {
+        "updateTitleText.color": "#c79746",
+        "updateText.color": "#c79746",
+        "updateTimeText.color": "#c79746"
+    },
+    "chathistory.file.send.msg": {
+        "file.icon.tintcolor": "#6e3f36",
+        "expire.text.color": "#95523e",
+        "arrow.tintcolor": "#e0725c",
+        "text.color": "#3c2509"
+    },
+    "chathistory.privatechat.balloon.receive.text": {
+        "background.image": {
+            "normal": "chatroom_balloon_hidden.9.png",
+            "pressed": "chatroom_balloon_hidden.9.png"
+        },
+        "icon.arrow.tintcolor": "#deae4e",
+        "text.color": "#3c2509"
+    },
+    "navigationBar.groupcall": {"calling.tintcolor": "#f69a88"},
+    "common.empty.page": {
+        "zero.subtitle.color": "#c79746",
+        "zerobutton.text.color": "#ffffff",
+        "call.name.text.color": "#885e35",
+        "zero.title.color": "#885e35",
+        "zero.image": "zero_img_empty.png",
+        "error.subtitle.color": "#fce06d",
+        "error.button.background.image": {
+            "normal": "button_r07_normal.9.png",
+            "pressed": "button_r07_pressed.9.png"
+        },
+        "call.link.text.color": "#c79746",
+        "error.button.text.color": "#ffffff",
+        "zerobutton.background.image": {
+            "normal": "button_r07_normal.9.png",
+            "pressed": "button_r07_pressed.9.png"
+        },
+        "error.image": "zero_img_error.png"
+    },
+    "grouphome.friend.request": {
+        "btn.background.color": {
+            "normal": "#c79746",
+            "pressed": "#9e7636"
+        },
+        "btn.text.color": "#ffffff",
+        "background.color": "#7f1b0000",
+        "message.text.color": "#ffffff",
+        "message.icon.tintcolor": "#ffffff"
+    },
+    "notification.popup": {
+        "setting.checkbox.background.image": {
+            "normal": "list_checkbox_img_normal.png",
+            "selected": "list_checkbox_img_selected.png"
+        },
+        "title.logo.tintcolor": "#6a4830",
+        "title.username.text.color": "#6a4830",
+        "title.groupname.text.color": "#6a4830",
+        "title.count.background.image": "popup_noti_img_num_bg.9.png",
+        "title.background.image": "popup_noti_bg_top.9.png",
+        "title.setting.image.tintcolor": "#6a4830",
+        "reply.input.bar.background.color": {
+            "normal": "#b2b2b2",
+            "selected": "#c79746"
+        },
+        "title.count.text.color": "#ffffff",
+        "reply.sendbutton.tintcolor": {
+            "normal": "#c79746",
+            "pressed": "#c79746",
+            "selected": "#c79746"
+        }
+    },
+    "tabBar.item.call": {
+      "normal.image":"gnb_ic_linenews_normal.png",
+"selected.image":"gnb_ic_linenews_selected.png"
+    },
+    "tabBar": {
+        "background.image":"gnb_bg_pattern.png",
+        "selectorBar.background.color": "#FFF7E35E",
+        "shadow.image": "gnb_gra.9.png"
+    },
+    "chathistory.attach.item.image": {
+	"linecamera.image":{"normal":"chatroom_attach_ic_camera.png","padding":"0 0 0 0"},
+"choose.file.image":{"normal":"chatroom_attach_ic_file.png","padding":"0 0 0 0"},
+"pay.image":{"normal":"chatroom_attach_ic_pay.png","padding":"0 0 0 0"},
+"snapmovie.image":{"normal":"chatroom_attach_ic_snapmovie.png","padding":"0 0 0 0"},
+        "contact.image": {"normal": "chatroom_attach_ic_info.png"},
+        "take.video.image": {"normal": "chatroom_attach_ic_takevideo.png"},
+        "choose.video.image": {"normal": "chatroom_attach_ic_chooesvideo.png"},
+        "take.photo.image": {"normal": "chatroom_attach_ic_takephoto.png"},
+        "choose.photo.image": {"normal": "chatroom_attach_ic_photo.png"},
+        "audio.image": {"normal": "chatroom_attach_ic_voicemessage.png"},
+        "location.image": {"normal": "chatroom_attach_ic_location_selected.png"}
+    },
+    "tabBar.item.more": {
+        "normal.image": "gnb_ic_more_normal.png",
+        "selected.image": "gnb_ic_more_selected.png"
+    },
+    "chathistory.groupboard.recv.msg": {
+        "videoicon.tintcolor": "#95523e",
+        "more.text.color": "#9f723a",
+        "photo.default.tintcolor": "#95523e",
+        "photoicon.tintcolor": "#95523e",
+        "bottom.background.image": "chatroom_balloon_line_rec.9.png",
+        "sticker.default.tintcolor": "#95523e",
+        "video.default.tintcolor": "#95523e",
+        "location.text.color": "#3c2509",
+        "arrow.tintcolor": "#deae4e",
+        "text.color": "#3c2509",
+        "bottom.text.color": "#95523e"
+    },
+    "myhome.background": {"background.image":"main.jpg"},
+    "navigationBar.tab": {"text.color": {
+        "normal": "#6a4830",
+        "selected": "#666a4830"
+    }},
+    "grouphome.member.category": {
+        "edit.btn.background.image": {
+            "normal": "button_r10_normal.9.png",
+            "pressed": "button_r10_pressed.9.png"
+        },
+        "category.text.color": "#c79746",
+        "category.divider.background.color": "#e6c155",
+        "category.count.text.color": "#c79746",
+        "edit.btn.text.color": "#faefc5"
+    },
+    "chathistory.balloon.video.default.send": {"background.color": "#f69a88"},
+    "moreMenu.topbanner.item": {
+        "subtext.color": "#c79746",
+        "arrowIcon.tintcolor": "#deae4e",
+        "background.color": "#ffffff",
+        "topDivider.background.color": "#ececec",
+        "text.color": "#6a4830"
+    },
+    "chathistory.music.send.msg": {
+        "title.text.color": "#3d1818",
+        "playlist.default.image": "chatroom_ic_music_playlist.png",
+        "playbtn.default.image": "chatroom_music_play_default.png",
+        "playing.image": "chatroom_music_bar_playing.png",
+        "playbtn.background.pressed.image": "chatroom_music_bar_pressed.png",
+        "stopbtn.default.image": "chatroom_music_stop_default.png",
+        "playbtn.pressed.image": "chatroom_music_play_pressed.png",
+        "playbtn.background.default.image": "chatroom_music_bar_default.png",
+        "typename.text.color": "#644229",
+        "topic.default.image": "chatroom_ic_music_topic.png",
+        "service.text.color": "#644229",
+        "loading.image": "chatroom_music_loading.png",
+        "artist.text.color": "#644229",
+        "stopbtn.pressed.image": "chatroom_music_stop_pressed.png"
+    },
+    "grouphome.error": {
+        "btn.text.color": "#fff4c7",
+        "sticker.image": "zero_img_error.png",
+        "icon.tintcolor": "#c79746",
+        "msg.text.color": "#c79746",
+        "btn.text.background.image": {
+            "normal": "button_r07_normal.9.png",
+            "pressed": "button_r07_pressed.9.png"
+        },
+        "msg.text.shadow": "#00000000"
+    },
+    "select.chat.bottom": {
+        "button.background.color": {
+            "normal": "#c79746",
+            "pressed": "#b1843c"
+        },
+        "button.icon.tintcolor": "#fff9e0",
+        "button.text.color": {
+            "normal": "#fff9e0",
+            "dimmed": "#7ffff9e0"
+        }
+    },
+    "chathistory.option.item.voip.voice": {
+        "background.image":{"pressed":"chatroom_option_ic_freecall_normal2.png"
+,"normal":"chatroom_option_ic_freecall_normal1.png"},
+        "text.color": {
+            "normal": "#ffff0000",
+            "dimmed": "#66885e35"
+        }
+    },
+    "chathistory.view.common":{"background.image":{"normal":"chatroom_bg_pattern.jpg"
+,"gravity":"center"}
+},
+    "chathistory.input": {
+        "inputText.color": "#ffffff80",
+        "photoButton.icon.image": "chatroom_ic_photo.png",
+        "inputText.hint": "#9f723a",
+        "attachButton.icon.image": "chatroom_ic_add.png",
+        "background.image": "chatroom_input_bg.png",
+        "sendButton.background.color": {
+            "normal": "#33000000",
+            "pressed": "#6e4d2b"
+        },
+        "sendButton.tintcolor": "#ffffff",
+        "eskButton.icon.image": "chatroom_ic_stickers.png"
+    },
+    "friendlist.item.common": {"background.color":{"normal":"#800000","pressed":"#47ffff80"},
+"new.background.color":{"normal":"#69F2EDE6","pressed":"#FFEEE17B"},
+"checked.background.color":{"normal":"#69F2EDE6","pressed":"#FFEEE17B"}},
+    "chathistory.privatechat.tooltip": {"text.color": "#9f723a"},
+    "chathistory.option.item.image": {
+	"search.image":"chatroom_option_ic_search_normal.png",
+        "block.image": "chatroom_option_ic_block.png",
+        "timer.image": "chatroom_option_ic_timer_normal.png",
+        "recommend.dimmed.image": "chatroom_option_ic_recom_disable.png",
+        "edit.group.image": "chatroom_option_ic_editgroup_normal.png",
+        "invite.image": "chatroom_option_ic_invite_normal.png",
+        "leave.dimmed.image": "chatroom_option_ic_leave_disable.png",
+        "leave.image": "chatroom_option_ic_leave_normal.png",
+        "line.call.dimmed.image": "chatroom_option_ic_linecall_disable.png",
+        "album.image": "chatroom_option_ic_albums_normal.png",
+        "recommend.image": "chatroom_option_ic_recom_normal.png",
+        "create.group.dimmed.image": "chatroom_option_ic_creategroup_disable.png",
+        "timer.dimmed.image": "chatroom_option_ic_timer_disable.png",
+        "create.group.image": "chatroom_option_ic_creategroup_normal.png",
+        "edit.image": "chatroom_option_ic_edit_normal.png",
+        "edit.group.dimmed.image": "chatroom_option_ic_editgroup_disable.png",
+        "photo.video.dimmed.image": "chatroom_option_ic_pv_disable.png",
+        "notification.on.image": "chatroom_option_ic_noti_on.png",
+        "album.dimmed.image": "chatroom_option_ic_albums_disable.png",
+        "setting.dimmed.image": "chatroom_option_ic_setting_disable.png",
+        "invite.dimmed.image": "chatroom_option_ic_invite_disable.png",
+        "notification.off.image": "chatroom_option_ic_noti_off.png",
+        "setting.image": "chatroom_option_ic_setting_normal.png",
+        "unblock.image": "chatroom_option_ic_unblock.png",
+        "photo.video.image": "chatroom_option_ic_pv_normal.png",
+        "edit.dimmed.image": "chatroom_option_ic_edit_disable.png",
+        "line.call.image": "chatroom_option_ic_linecall_normal.png",
+        "photo.image": "chatroom_option_ic_pv_normal.png",
+        "send.gift.dimmed.image": "chatroom_option_ic_gift_disable.png",
+        "send.gift.image": "chatroom_option_ic_gift_normal.png"
+		,"group.event.image":"chatroom_option_ic_event_normal.png"
+    },
+    "myhome.write.post": {
+        "icon.tintcolor": "#885e35",
+        "text.color": "#885e35"
+    },
+    "chathistory.gift.send.msg": {
+        "background.image": "chatroom_balloon_gift_send.9.png",
+        "text.color": "#3c2509"
+    },
+    "chathistory.voip.send.msg": {
+        "icon.tintcolor": "#643931",
+        "linecall.text.color": "#643931",
+        "text.color": "#643931"
+    },
+    "chathistory.privatechat.header.banner.item": {
+        "icon.tintcolor": "#885e35",
+        "text.color": "#885e35"
+    },
+    "view.common": {"background.image":"main.jpg"},
+    "chathistory.groupboard.tip": {"text.color": "#9f723a"},
+    "search.chat.highlightColor": {
+        "chatList.text.color": "#ff7d63",
+        "receiveMessage.text.color": "#fff445",
+        "sendMessage.text.color": "#fff445"
+    },
+    "myhome.cover": {
+        "officialHomeProfileText.color": "#3c2509",
+        "officialHomeProfileArrow.tintcolor": {
+            "normal": "#fce06d",
+            "pressed": "#fce06d"
+        }
+    },
+    "navigationBar": {
+        "title.text.color": "#cc0000ff",
+        "button.background.color": {
+            "normal": "#00000000",
+            "pressed": "#00000000"
+        },
+        "badge.text.color": "#ffffff",
+        "button.tintcolor": {
+            "normal": "#cc0000ff",
+            "pressed": "#deae4e",
+            "dimmed": "#deae4e",
+            "selected": "#6a4830"
+        },
+       "background.image":"header_bg_pattern.png",
+        "badge.new.image": "header_ic_new.png",
+        "button.text.color": {
+            "normal": "#cc0000ff",
+            "pressed": "#deae4e",
+            "dimmed": "#deae4e",
+            "selected": "#6a4830"
+        },
+        "title.button.tintcolor": "#6a4830",
+        "status.background.color": "#5e0000ff",
+        "badge.count.background.image": "header_num_bg.9.png"
+    },
+    "chathistory.voice.recv.msg": {
+        "speak.expire.image": "chatroom_ic_voicemsg_rec_x.png",
+        "bottom.background.image": "chatroom_voicemsg_line_w_rec.9.png",
+        "colon.tintcolor": {
+            "normal": "#e7e0dd",
+            "selected": "#6c5547"
+        },
+        "seperator.image": "chatroom_voicemsg_line_h_rec.9.png",
+        "speak3.image": "chatroom_ic_voicemsg_rec_03.png",
+        "speak1.image": "chatroom_ic_voicemsg_rec_01.png",
+        "share.image": {
+            "normal": "chatroom_ic_voicemsg_rec_share.png",
+            "selected": "chatroom_ic_voicemsg_rec_share_pressed.png"
+        },
+        "play.image": {
+            "normal": "chatroom_ic_voicemsg_rec_play.png",
+            "selected": "chatroom_ic_voicemsg_rec_play_pressed.png"
+        },
+        "speak.image": "chatroom_ic_voicemsg_rec_00.png",
+        "pause.image": {
+            "normal": "chatroom_ic_voicemsg_rec_pause.png",
+            "selected": "chatroom_ic_voicemsg_rec_pause_pressed.png"
+        },
+        "speak2.image": "chatroom_ic_voicemsg_rec_02.png",
+        "text.color": {
+            "normal": "#e7e0dd",
+            "selected": "#6c5547"
+        }
+    },
+    "tabBar.item.timeline": {
+        "normal.image": "gnb_ic_timeline_normal.png",
+        "selected.image": "gnb_ic_timeline_selected.png"
+    },
+    "grouphome.member.profile": {
+        "add.btn.icon.tintcolor": "#c79746",
+        "profile.name.text.color": "#885e35"
+    },
+    "addFriend.tab.item": {
+        "background.image": {
+            "normal": "gnb_bg_addfriend_normal.9.png",
+            "pressed": "gnb_bg_addfriend_pressed.9.png"
+        },
+        "text.color": "#Addfriendtab"
+    },
+    "chathistory.voice.send.msg": {
+        "speak.expire.image": "chatroom_ic_voicemsg_send_x.png",
+        "bottom.background.image": "chatroom_voicemsg_line_w_send.9.png",
+        "colon.tintcolor": {
+            "normal": "#d6816f",
+            "selected": "#643931"
+        },
+        "seperator.image": "chatroom_voicemsg_line_h_send.9.png",
+        "speak3.image": "chatroom_ic_voicemsg_send_03.png",
+        "speak1.image": "chatroom_ic_voicemsg_send_01.png",
+        "share.image": {
+            "normal": "chatroom_ic_voicemsg_send_share.png",
+            "selected": "chatroom_ic_voicemsg_send_share_pressed.png"
+        },
+        "play.image": {
+            "normal": "chatroom_ic_voicemsg_send_play.png",
+            "selected": "chatroom_ic_voicemsg_send_play_pressed.png"
+        },
+        "speak.image": "chatroom_ic_voicemsg_send_00.png",
+        "pause.image": {
+            "normal": "chatroom_ic_voicemsg_send_pause.png",
+            "selected": "chatroom_ic_voicemsg_send_pause_pressed.png"
+        },
+        "speak2.image": "chatroom_ic_voicemsg_send_02.png",
+        "text.color": {
+            "normal": "#d6816f",
+            "selected": "#643931"
+        }
+    },
+    "chathistory.option.item.voip.voice.image": {
+        "voice.call.dimmed.image": "chatroom_option_ic_freecall_disable.png",
+        "voice.call.image": "chatroom_option_ic_freecall_normal.png"
+    },
+    "chathistory.onair": {
+        "background.image": "chatroom_onair_bg.9.png",
+        "subtext.color": "#c79746",
+        "text.color": "#6a4830"
+    },
+    "chathistory.voip.recv.msg": {
+        "icon.tintcolor": "#6c5547",
+        "linecall.text.color": "#6c5547",
+        "text.color": "#6c5547"
+    },
+    "moreMenu.view": {"bottom.background.image":"main.jpg"
+,"background.color":"#00000000"
+},
+    "myhome.post.header": {
+        "groupBtn.popup.arrow.tintcolor": "#fff0b3",
+        "nameText.color": "#3c2509",
+        "groupBtn.background.image": {
+            "normal": "button_r09_normal.9.png",
+            "pressed": "button_r09_pressed.9.png"
+        },
+        "groupBtn.text.color": "#c79746",
+        "groupBtn.popup.background.image": "timeline_img_bg_see_bg01.9.png",
+        "sharePostMessage.color": "#3c2509",
+        "groupBtn.popup.pressed.reverse.background.image": {
+            "normal": "",
+            "pressed": "timeline_img_bg_see_bg02_pressed.9.png"
+        },
+        "groupBtn.popup.divider.background.color": "#c69e40",
+        "groupBtn.icon.tintcolor": "#c79746",
+        "groupBtn.popup.reverse.background.image": "timeline_img_bg_see_bg02.9.png",
+        "timeText.color": "#b4b4b4",
+        "groupBtn.popup.detail.text.color": "#fff0b3",
+        "groupBtn.popup.pressed.background.image": {
+            "normal": "",
+            "pressed": "timeline_img_bg_see_bg01_pressed.9.png"
+        },
+        "groupBtn.popup.text.color": "#ffffff"
+    },
+    "chathistory.balloon.text.recv": {"background.image": {
+        "normal": "chatroom_balloon_rec_normal.9.png",
+        "padding": "",
+        "pressed": "chatroom_balloon_rec_pressed.9.png"
+    }},
+    "timeline.list.newpost": {
+        "background.image": {
+            "normal": "timeline_newpost_btn.9.png",
+            "pressed": "timeline_newpost_btn.9.png"
+        },
+        "text.color": "#c79746"
+    },
+    "chathistory.gift.recv.msg": {
+        "button.background.image": {
+            "normal": "button_r07_normal.9.png",
+            "pressed": "button_r07_pressed.9.png"
+        },
+        "background.image": "chatroom_balloon_gift_rec.9.png",
+        "button.text.color": "#ffffff",
+        "button.text.shadow": "#00000000",
+        "text.color": "#3d1818"
+    },
+    "grouphome.empty": {
+        "empty.album.icon.image.tintcolor": "#cfab57",
+        "empty.btn.text.color": "#fff4c7",
+        "empty.note.icon.image.tintcolor": "#cfab57",
+        "empty.btn.background.image": {
+            "normal": "button_r07_normal.9.png",
+            "pressed": "button_r07_pressed.9.png"
+        },
+        "empty.text.color": "#cfab57"
+    },
+    "multi.userselect": {
+        "name.text.color": "#885e35",
+        "background.color": "#ffe889"
+    },
+    "chathistory.link.recv.msg": {
+        "bottom.background.image": "chatroom_balloon_line_rec.9.png",
+        "detail.text.color": "#9f723a",
+        "arrow.tintcolor": "#deae4e",
+        "text.color": "#3c2509"
+    },
+    "timeline.userrecall": {
+        "recalled.user.text.color": "#deae4e",
+        "recall.user.text.color": "#ffffff",
+        "suggest.dialog.text.color": "#deae4e",
+        "recall.user.text.background.color": "#deae4e"
+    },
+    "searchBar": {
+        "underbar.background.color": {
+            "normal": "#f0ce5f",
+            "selected": "#f3ce5c"
+        },
+        "text.hint": "#d6b349",
+        "search.icon.image": "list_ic_search.png",
+        "cancel.icon.tintcolor": "#ddb74a",
+        "text.color": "#000000"
+    },
+    "chathistory.groupboard.send.msg": {
+        "videoicon.tintcolor": "#95523e",
+        "more.text.color": "#95523e",
+        "photo.default.tintcolor": "#95523e",
+        "photoicon.tintcolor": "#95523e",
+        "bottom.background.image": "chatroom_balloon_line_send.9.png",
+        "sticker.default.tintcolor": "#95523e",
+        "video.default.tintcolor": "#95523e",
+        "location.text.color": "#3c2509",
+        "arrow.tintcolor": "#deae4e",
+        "text.color": "#3c2509",
+        "bottom.text.color": "#95523e"
+    },
+    "chathistory.privatechat.common": {
+        "name.text.color": "#885e35",
+        "timer.text.color": "#c79746",
+        "autoresend.icon.tintcolor": "#c79746",
+        "time.text.color": "#c79746"
+    },
+    "select.chat.tab": {
+        "background.image": "gnb_bg_select.9.png",
+        "selectorBar.background.color": "#6a4830",
+        "text.shadow": "#00000000",
+        "text.color": {
+            "normal": "#e5cd9b",
+            "selected": "#6a4830"
+        }
+    },
+    "chathistory.input.sendButton.selectType": {
+        "icon.tintcolor": {
+            "normal": "#dbcec2",
+            "selected": "#885e35"
+        },
+        "text.color": {
+            "normal": "#dbcec2",
+            "selected": "#885e35"
+        }
+    },
+    "chathistory.option.item.voip.video.image": {
+        "video.call.image": "chatroom_option_ic_videocall_normal.png",
+        "video.call.dimmed.image": "chatroom_option_ic_videocall_disable.png"
+    },
+    "moreMenu.lower.item": {
+        "newIcon.image": "more_ic_new.png",
+        "icon.tintcolor": "#MoremenuItem",
+        "background.color":{"pressed":"#ACFCE06D" 
+,"normal":"#2AFF9DBF"},
+        "text.color": "#MoremenuItem"
+    },
+    "list.common": {"divider.background.color": "#f3ce5c"},
+    "chathistory.balloon.send": {"background.image": {
+        "normal": "chatroom_balloon_send_normal.9.png",
+        "pressed": "chatroom_balloon_send_pressed.9.png"
+    }},
+    "navigationBar.search": {
+        "back.icon.tintcolor": {
+            "normal": "#cc0000ff",
+            "pressed": "#deae4e"
+        },
+        "underbar.background.color": "#f3ce5c",
+        "background.image": "header_bg.9.png",
+        "text.hint": "#c79746",
+        "cancel.icon.tintcolor": "#6a4830",
+        "text.color": "#000000"
+    },
+    "album.detail.menu": {
+        "checked.icon.tintcolor": "#885e35",
+        "item.color": {
+            "normal": "#dbcec2",
+            "selected": "#885e35"
+        }
+    },
+    "friendlist.item": {
+        "phoneIcon.tintcolor": {
+            "normal": "#d2a64e",
+            "pressed": "#e3bd5a"
+        },
+        "phoneNumberText.color": "#c79746",
+        "nameText.color": "#7aff9845",
+        "phoneIcon.background.tintcolor": {
+            "normal": "#f6d462",
+            "pressed": "#f1cf5f"
+        },
+        "addFriend.background.tintcolor": {
+            "normal": "#f6d462",
+            "pressed": "#f1cf5f"
+        },
+        "arrowIcon.tintcolor": "#deae4e",
+        "moreButton.text.color": "#fff9e0",
+        "updateIcon.tintcolor": "#ff7d63",
+        "addInviteButton.background.image": {
+            "normal": "button_r09_normal.9.png",
+            "pressed": "button_r09_pressed.9.png"
+        },
+        "addFriend.icon.tintcolor": "#c79746",
+        "descriptionText.color": "#c79746",
+        "statusText.color": "#ffff4213",
+        "checkboxOff.image": "list_checkbox_img_normal.png",
+        "checkboxOn.image": "list_checkbox_img_selected.png",
+        "addInviteButton.color": "#c79746",
+        "moreButton.background.image": {
+            "normal": "button_r01_normal.9.png",
+            "pressed": "button_r01_pressed.9.png"
+        }
+    },
+    "chathistory.option.item": {
+       "button.background.image":{"pressed":"chatroom_attach_ic_camera2.png"
+,"normal":"chatroom_attach_ic_camera1.png"
+},
+        "bottom.divider.background.color": "#e6c155",
+        "text.color": {
+            "normal": "#ffff0000",
+            "dimmed": "#66885e35"
+        }
+    },
+    "profile.thumbnail": {
+        "group.small.image": "group_thumbnail_small.png",
+        "single.big.image": "user_thumbnail_large_00.png",
+        "group.big.image": "group_thumbnail_large.png",
+        "single.small.image": "user_thumbnail_small_00.png"
+    },
+    "chathistory.privatechat.view.common": {"background.image": "chatroom_bg_hidden.9.png"},
+    "main.view.common": {"background.image":"main.jpg"},
+    "chathistory.input.voice": {
+        "voip.background.color": {
+            "normal": "#ffffff",
+            "pressed": "#f7f1d2"
+        },
+        "voip.icon.tintcolor": "#f69a88",
+        "voip.text.color": "#f69a88",
+        "close.background.color": {
+            "normal": "#885e35",
+            "pressed": "#6e4d2b"
+        },
+        "close.icon.tintcolor": "#ffffff"
+    },
+    "manifest": {
+        "schemaVersion": 1,
+        "provider": {
+            "name": "Yellow",
+            "url": ""
+        },
+        "themeVersion": "5.11.0",
+        "name": "Yellow",
+        "platform": "Android",
+        "revision": 13,
+        "quality": 85
+    },
+    "noticenter2": {
+        "title.text.color": "#c79746",
+        "arrow.icon.image": "timeline_img_tabarrow.png",
+        "background.color": "#ffffff",
+        "more.icon.tintcolor": "#c79746"
+    },
+    "chathistory.link.send.msg": {
+        "bottom.background.image": "chatroom_balloon_line_send.9.png",
+        "detail.text.color": "#95523e",
+        "arrow.tintcolor": "#e0725c",
+        "text.color": "#3c2509"
+    },
+    "chathistory.spammer": {
+        "name.text.color": "#c79746",
+        "button.background.image": {
+            "normal": "button_r06_normal.9.png",
+            "pressed": "button_r06_pressed.9.png"
+        },
+        "background.image": "chatroom_onair_bg.9.png",
+        "button.text.color": "#fde5a8",
+        "text.color": "#6a4830"
+    },
+    "navigationBar.moreMenu": {"item.text.color": "#885e35"},
+    "tabBar.item": {
+        "badge.text.color": "#ffffff",
+        "badge.background.image": "gnb_num_bg.9.png"
+    },
+    "chathistory.balloon.video.default.recv": {"background.color": "#ffffff"},
+    "addFriend.tab.addGroup": {
+        "icon.background.tintcolor": "#f6d462",
+        "icon.tintcolor": "#6a4830",
+        "subtext.color": "#c79746",
+        "updateButton.tintcolor": {
+            "normal": "#c79746",
+            "pressed": "#b2863e"
+        },
+        "background.color": {
+            "normal": "#fce06d",
+            "pressed": "#f4d665"
+        },
+        "addButton.text.color": "#fff4c7",
+        "addButton.background.tintcolor": {
+            "normal": "#c79746",
+            "pressed": "#b2863e"
+        },
+        "arrow.tintcolor": "#deae4e",
+        "text.color": "#6a4830"
+    },
+    "chathistory.contact.recv.msg": {
+        "arrow.tintcolor": "#deae4e",
+        "text.color": "#3c2509"
+    },
+    "chathistory.groupcall.layer": {"phoneIcon.tintcolor": "#fde5a8"},
+    "myhome.lineend.smiley": {"smiley.tintcolor": "#6a4830"},
+    "splash": {
+       "splash.background.image":{"normal":"splash_img.jpg"}
+,"background.color":"#fadce2"},
+    "passcode": {
+        "number.background.image":{"normal":"bgpassnumber.png","pressed":"password_ic_01_on.png"},
+        "passcode3.input.image": "password_ic_03_on.png",
+        "passcode2.background.image": "password_ic_02_off.png",
+        "passcode1.input.image": "password_ic_01_on.png",
+        "number.text.tintcolor": "#PASSCODES",
+        "passcode2.input.image": "password_ic_02_on.png",
+        "passcode4.background.image": "password_ic_04_off.png",
+       "background.image":"pass.jpg"
+,"top.background.color":"#00000000",
+        "text.color": "#PASSCODES",
+        "infotext.color": "#PASSCODES",
+        "passcode1.background.image": "password_ic_01_off.png",
+        "number.delete.tintcolor": {
+            "normal": "#PASSCODES",
+            "pressed": "#6a4830"
+        },
+        "passcode3.background.image": "password_ic_03_off.png",
+        "number.cancel.text.color": {
+            "normal": "#PASSCODES",
+            "pressed": "#6a4830"
+        },
+        "passcode4.input.image": "password_ic_04_on.png"
+    },
+    "myhome.post.body": {"text.color": "#646464"},
+	"tabBar.item.news":{"normal.image":"gnb_ic_linenews_normal.png",
+"selected.image":"gnb_ic_linenews_selected.png"}
+,"chathistory.call":{"top.divider.background.color":"#TOUCHBUTCHATFREECALL",
+"bottom.divider.background.color":"#BUTCHATFREECALL",
+"call.icon.tintcolor":"#ICONFREECALL",
+"call.text.color":"#ICONFREECALL",
+"background.tintcolor":{"normal":"#BUTCHATFREECALL","pressed":"#TOUCHBUTCHATFREECALL"},"member.background.color":"#BUTCHATFREECALL"},
+"chathistory.groupcall":{"joinButton.background.tintcolor":{"normal":"#f9e038","pressed":"#bda713"},
+"joinButton.icon.tintcolor":"#ffffff","joinButton.text.color":"#ffffff",
+"callButton.background.image":{"normal":"chatroom_option_ic_freecall_normal1.png",
+"pressed":"chatroom_option_ic_freecall_normal2.png"},
+"callButton.icon.tintcolor":{"normal":"#GROUPCALLICONCOLOR"},
+"callButton.text.color":{"normal":"#GROUPCALLICONCOLOR"},
+"background.color":"#GROUPCALLBACKGROUND","top.divider.background.color":"#GROUPCALLBACKGROUND",
+"bottom.divider.background.color":"#GROUPCALLBACKGROUND","text.color":"#fcff00",
+"subtext.color":"#fcff00"}
+,
+"chathistory.input2":{"addButton.image":{"normal":"chatroom_ic_add2.png","pressed":"chatroom_ic_add2.png"},
+"cameraButton.image":{"normal":"chatroom_ic_camera2.png","pressed":"chatroom_ic_camera2.png"},
+"photoButton.image":{"normal":"chatroom_ic_photo2.png","pressed":"chatroom_ic_photo2.png"},
+"stickersButton.image":{"normal":"chatroom_ic_stickers2.png","pressed":"chatroom_ic_stickers2.png"},
+"voiceButton.image":{"normal":"chatroom_ic_voice2.png","pressed":"chatroom_ic_voice2.png"},
+"backButton.image":{"normal":"chatroom_ic_backbutton2.png","pressed":"chatroom_ic_backbutton2.png"},
+"sendButton.image":{"normal":"chatroom_ic_sendbutton2.png","pressed":"chatroom_ic_sendbutton2.png"}
+,"background.image":"chatroom_input_bg.png","background.image.pattern":"false",
+"inputText.hint":"#ffffff80",
+"inputText.color":"#ffffff80","top.divider.background.color":"#00000000",
+"inputBox.tintcolor":"#00000000",
+"inputBox.outline.tintcolor":"#ffffff80","blocked.text.color":"#bfb3ad"}
+}

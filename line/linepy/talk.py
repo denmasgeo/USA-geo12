@@ -498,7 +498,10 @@ class Talk(object):
         return self.talk.acquireCallRoute(to)
     
     """Report"""
-
+    @loggedIn
+    def sendMessage1(self, messageObject):
+        return self.talk.sendMessage(0,messageObject)
+    
     @loggedIn
     def reportSpam(self, chatMid, memberMids=[], spammerReasons=[], senderMids=[], spamMessageIds=[], spamMessages=[]):
         return self.talk.reportSpam(chatMid, memberMids, spammerReasons, senderMids, spamMessageIds, spamMessages)
